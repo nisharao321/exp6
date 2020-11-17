@@ -1,6 +1,6 @@
 ##### These procedure steps will be followed on the simulator
 
-1. When you click on a Shock loss factor for a right angled bend, a new window will open as shown below. <br>
+1. When you click on a Shock loss factor for a right angled bend file, a new window will open as shown below. <br>
 <img src="images/k1.png"><br>
 
 2. Click on the slider to rotate so that current flows through the circuit board.<br>
