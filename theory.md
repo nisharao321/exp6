@@ -4,22 +4,22 @@
 <ol style="text-indent:50px;text-align:justify;list-style-position: inside;">
 <li>Obstructions in airways</li>
 <li>Bends</li>
-<li>Change in cross-section areas</li>
+<li>Change in cross-section area</li>
 <li>Point of entry or exit, etc.</li>
 </ol>
 
-<p style="text-indent:50px;text-align:justify">Law of continuity holds good in mines. So, to maintain same volume of air flow through mine airways, there is a variation in velocity of air when there is any obstruction causing a change in cross sectional areas of the airways.</p>
+<p style="text-indent:50px;text-align:justify">Law of continuity holds good in mines. So, to maintain same volume of air flow through mine airways, there is a variation in velocity of air when there is any obstruction causing a change in cross sectional area of the airways.</p>
 
 <p style="text-indent:50px;text-align:justify">
 At bends, though the cross section area may be constant, change in velocity occur due to change in direction of flow of the air. The change in velocity in a definite time (smaller in case of abrupt changes and longer in case of gradual changes), causes acceleration. A force is required. And this force is applied at the cost of loss in pressure head.	
 </p>
 
 <p style="text-indent:50px;text-align:justify">
-Hence, extra work is done to maintain flow of air. Thus, resistance is produced. Again, the resistance offered is dependent on factors like shape and size of obstructions, material of which the obstruction exist/ is made, type of bends. An obstruction of wooden material offers more resistance compared to that of metal or metal alloys.
+Hence, extra work is done to maintain flow of air. Thus, resistance is produced. The resistance offered is dependent on factors like shape and size of obstructions, material of which the obstruction exist/ is made, type of bends. An obstruction of wooden material offers more resistance compared to that of metal or metal alloys.
 </p>
 
 <p style="text-indent:50px;text-align:justify">
-Shock losses are generally referred to in terms of head loss or drop in total pressure. This in turn is expressed in terms of ‘velocity heads’. It is represented as ‘P<sub>shock</sub>’.
+Shock losses are generally referred in terms of head loss or drop in total pressure. Which is further expressed in terms of ‘velocity heads’. It is represented as ‘P<sub>shock</sub>’.
 </p>
 
 <p style="text-indent:50px;text-align:justify">P = KSV<sup>2</sup>/A</p>
@@ -74,7 +74,7 @@ We can write shock resistance, R<sub>shock</sub> as
 
 R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>).                        (Ns<sup>2</sup>/m<sup>8</sup>)
 
-<p style="text-indent:50px;text-align:justify">Suppose that in a sub-surface airway at length L, there is a other cause of a shock loss. The resistance of the airway will be greater than if that same airway contained no shock loss. We can express that additional resistance, R<sub>shock</sub>, in terms of the length of corresponding straight airways which would have that same value of shock resistance. This ‘equivalent length’ of shock loss ‘L<sub>eq</sub>’ may be incorparted to give an Atkinson’s resistance</p>
+<p style="text-indent:50px;text-align:justify">For instance in a sub-surface airway at length L, consider that there is an other cause of shock loss. The resistance of the airway will be greater, if that same airway contained no shock loss. We can express that additional resistance, R<sub>shock</sub>, in terms of the length of corresponding straight airways which would have that same value of shock resistance. This ‘equivalent length’ of shock loss ‘L<sub>eq</sub>’ may be incorparted to give an Atkinson’s resistance</p>
 
 It can be written mathematically as
 
