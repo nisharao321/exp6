@@ -88,6 +88,6 @@ R<sub>shock</sub> = X 𝜌/(2𝐴<sup>2</sup>)= kL<sub>eq</sub>(perimeter 𝜌/(
 
 Hence, L<sub>eq</sub> = 1.2X/2K A/(Perimeter).(m)
 
-In terms of hydraulic radius, we can express L<sub>eq</sub> as follow 
+In terms of hydraulic radius, we can express L<sub>eq</sub> as follow.
 
 L<sub>eq</sub> = (1.2X)/8Kd                                                                                                                        
