@@ -84,7 +84,7 @@ And  P = R<sub>frictional</sub>Q<sup>2</sup> = K(L + L<sub>eq</sub>) (perimeter 
 
 Equating the two equations, we have 
 
-R<sub>shock</sub> = X 𝜌/(2𝐴<sup>2</sup>)= kL<sub>eq</sub>(perimeter 𝜌/(A<sup>3</sup>×1.2)). (Ns<sup>2/m</sup>8)
+R<sub>shock</sub> = X 𝜌/(2𝐴<sup>2</sup>)= kL<sub>eq</sub>(perimeter 𝜌/(A<sup>3</sup>×1.2)). (Ns<sup>2</sup>/m<sup>8</sup>)
 
 Hence, L<sub>eq</sub> = 1.2X/2K A/(Perimeter).(m)
 
