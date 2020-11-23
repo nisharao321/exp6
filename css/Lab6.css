@@ -108,6 +108,10 @@ width:745px;
 
 }
 
+@keyframes rotateRight{
+  100%{ transform:rotate(360deg); }
+}
+
 .incanvas
 {
 margin:5px 0 0 5px;
@@ -276,20 +280,20 @@ input[type=number] {
 }
 @-webkit-keyframes moven{
  0%{ transform:rotate(-70deg)}
- 100%{ transform:rotate(-42deg)}
+ 100%{ transform:rotate(-48deg)}
 }
 @keyframes moven{
   0%{ transform:rotate(-70deg)}
-  100%{ transform:rotate(-42deg)}
+  100%{ transform:rotate(-48deg)}
 }
 
 @-webkit-keyframes movenn{
  0%{ transform:rotate(-70deg)}
- 100%{ transform:rotate(-32deg)}
+ 100%{ transform:rotate(-30deg)}
 }
 @keyframes movenn{
   0%{ transform:rotate(-70deg)}
-  100%{ transform:rotate(-32deg)}
+  100%{ transform:rotate(-30deg)}
 }
 @keyframes moves {
  0% {left:-30px; }
